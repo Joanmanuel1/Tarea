@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1535918007 source:c:\users\katherine\desktop\workspace. curso de programacion\tp prueba\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1535918007 source:c:\users\katherine\desktop\workspace. curso de programacion\tp prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1535918007 c:\users\katherine\desktop\workspace. curso de programacion\tp prueba\utn.h
+
